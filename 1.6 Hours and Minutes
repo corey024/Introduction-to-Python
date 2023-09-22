@@ -1,0 +1,4 @@
+num = int(input())
+hour = num // 3600
+sec = num // 60
+print (hour,sec)
