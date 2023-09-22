@@ -1,0 +1,4 @@
+num_stu = int(input())
+num_app = int(input())
+print(num_app // num_stu)
+print(num_app % num_stu)
